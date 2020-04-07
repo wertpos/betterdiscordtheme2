@@ -44,8 +44,8 @@
   --modal-badge-invert: invert(0);
   --modal-bg1-search: var(--search-filter-hover);
   --text-1: #fff;
-  --text-2: #c9c9c9;
-  --text-3: #999a9b;
+  --text-2: #d9d9d9;
+  --text-3: #919191;
   --text-4: #717173;
   --text-dark: #1c1d1f;
 }
@@ -699,6 +699,7 @@
   box-shadow: var(--box-shadow);
 }
 
+}
 #app-mount .searchBar-3dMhjb .searchAnswer-3Dz2-q,
 #app-mount .searchBar-3dMhjb .searchFilter-2ESiM3 {
   background-color: var(--foreground-1);
@@ -1502,12 +1503,12 @@ html.theme-light .wrapper-2ZbzR9 .slide-2pHaq5 .footer-3rDWdC {
   background: var(--text-1);
 }
 #app-mount .newMessagesBar-mujexs {
-  top: 5px;
+  top: 10px;
   left: 30px;
   right: 30px;
   border-radius: 5px;
   box-shadow: var(--box-shadow);
-  background: rgba(255,0,0,1);
+  background: rgba(var(--accent), 1);
 }
 
 #app-mount .divider-JfaTT5 {
