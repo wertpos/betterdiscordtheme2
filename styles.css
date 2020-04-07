@@ -1502,12 +1502,12 @@ html.theme-light .wrapper-2ZbzR9 .slide-2pHaq5 .footer-3rDWdC {
   background: var(--text-1);
 }
 #app-mount .newMessagesBar-mujexs {
-  top: 10px;
+  top: 5px;
   left: 30px;
   right: 30px;
   border-radius: 5px;
   box-shadow: var(--box-shadow);
-  background: rgba(var(--accent), 1);
+  background: rgba(255,0,0,1);
 }
 
 #app-mount .divider-JfaTT5 {
