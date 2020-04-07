@@ -26,7 +26,7 @@
   --message-box-divider: #20242a;
   --message-embed: #171a1f;
   --message-button: #2d323c;
-  --server-background: #1e2127;
+  --server-background: #1c1d1f;
   --server-hovered: #20242a;
   --server-selected: #22262d;
   --server-folders: var(--server-background);
@@ -107,7 +107,7 @@
   --message-spacing: var(--chat-message-spacing, 20px);
   --bd-blue: rgba(var(--accent), 1);
   --text-link: rgba(var(--accent), 1);
-  --dark-modal-background: #171a1f;
+  --dark-modal-background: #1c1d1f;
   --dark-modal-item: #1c1f25;
   --dark-modal-footer: #131519;
   --light-modal-background: #f8f8f8;
