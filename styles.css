@@ -28,11 +28,11 @@
   --message-button: #1c1d1f;
   --server-background: #1c1d1f;
   --server-hovered: #171419;
-  --server-selected: #1c1d1f;
+  --server-selected: #171419;
   --server-folders: var(--server-background);
   --search-filter-hover: #171419;
   --search-result-header: #1c1d1f;
-  --channel-selected-bg: #1c1d1f;
+  --channel-selected-bg: #171419;
   --channel-hovered-bg: #171419;
   --channel-unread-bg: transparent;
   --channel-selected-text: var(--text-1);
