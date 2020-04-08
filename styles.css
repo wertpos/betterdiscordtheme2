@@ -11,8 +11,8 @@
   --pages-box-footer: #1c1d1f;
   --pages-separator: rgba(255,255,255,0.05);
   --user-popout: var(--dropdown);
-  --user-popout-body: #1c1d1f;
-  --user-popout-message: #1c1d1f;
+  --user-popout-body: #171419;
+  --user-popout-message: #171419;
   --settings-box: var(--message-box);
   --settings-box-hover: #171419;
   --settings-box-footer: #1c1d1f;
