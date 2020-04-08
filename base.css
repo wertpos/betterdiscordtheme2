@@ -56,7 +56,7 @@
   --message-spacing: var(--chat-message-spacing, 20px);
   --bd-blue: rgba(var(--accent), 1);
   --text-link: rgba(var(--accent), 1);
-  --dark-modal-background: #171a1f;
+  --dark-modal-background: #1c1d1f;
   --dark-modal-item: #1c1f25;
   --dark-modal-footer: #131519;
   --light-modal-background: #f8f8f8;
@@ -181,9 +181,6 @@
 }
 #app-mount .container-3T1zWi:before {
   content: none;
-}
-#app-mount .searchBar-3dMhjb {
-  background: var(--background-1);
 }
 #app-mount .topic-TCb_qw a {
   color: rgba(var(--accent), 1);
@@ -509,9 +506,6 @@
 #app-mount .layer-3QrUeG[aria-label*=SETTINGS] .contentRegion-3nDuYy .searchBox-3Y2Vi7 {
   background: var(--background-2);
 }
-#app-mount .layer-3QrUeG[aria-label*=SETTINGS] .contentRegion-3nDuYy .divider-3573oO {
-  background-color: var(--settings-separator);
-}
 #app-mount .layer-3QrUeG[aria-label*=SETTINGS] .contentRegion-3nDuYy .hiddenLibraryApplication-2esFER {
   border-bottom-color: var(--settings-separator);
 }
@@ -653,9 +647,6 @@
   box-shadow: var(--box-shadow);
 }
 
-#app-mount .searchBar-3dMhjb {
-  background: var(--background-2);
-}
 #app-mount .searchBar-3dMhjb .searchAnswer-3Dz2-q,
 #app-mount .searchBar-3dMhjb .searchFilter-2ESiM3 {
   background-color: var(--foreground-1);
