@@ -1516,6 +1516,9 @@ html.theme-light .wrapper-2ZbzR9 .slide-2pHaq5 .footer-3rDWdC {
   background: var(--background-1);
   box-shadow: none;
 }
+#app-mount .cozyMessage-3V1Y8y.groupStart-23k01U {
+  margin-top: var(--message-spacing);
+}
 #app-mount .cozyMessage-3V1Y8y + .cozyMessage-3V1Y8y:not(.groupStart-23k01U) {
   margin-top: calc(var(--message-padding) / -1);
   padding-top: 3px;
